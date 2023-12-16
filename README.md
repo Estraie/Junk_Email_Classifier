@@ -5,7 +5,7 @@ Create a new conda environment and install the requirements
 ```bash
 conda create -n jec
 ```
-
+ 
 ```bash
 conda activate jec
 ```
