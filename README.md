@@ -11,7 +11,7 @@ conda activate jec
 ```
 
 ```bash
-pip isntall -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## TODO
